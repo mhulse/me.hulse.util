@@ -1,0 +1,1 @@
+Code to be sorted:private function extractFileType($file:String):String {		var r:String = '';	var extensionIndex:Number = $file.lastIndexOf('.');		if (extensionIndex != -1) {				 r = $file.substr(extensionIndex + 1, $file.length);		 r = r.toLowerCase();			}		return r;	};
