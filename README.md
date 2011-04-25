@@ -7,7 +7,7 @@ Use at your own risk! :)
 ## Changelog:
 
 * __2011/04/25__
-	* Updated me.hulse.util.ApplyClickTag class
+	* Updated me.hulse.util.ApplyClickTag class:
 		* It can now be applied as document class.
 		* Alternatively, you can attach it to a MC in the library.
 		* Lastly, it can be instanciated in other classes and applied to an object.
