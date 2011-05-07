@@ -1,4 +1,4 @@
-﻿package me.hulse.util {
+package me.hulse.util {
 	
 	// http://assets.hulse.me/js/map.js
 	// http://code.google.com/apis/maps/documentation/flash/tutorial-flash.html

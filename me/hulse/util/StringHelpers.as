@@ -1,4 +1,4 @@
-﻿package me.hulse.util {
+package me.hulse.util {
 	
 	public class StringHelpers {
 		

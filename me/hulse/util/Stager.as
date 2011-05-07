@@ -1,4 +1,4 @@
-﻿package me.hulse.util {
+package me.hulse.util {
 	
 	import flash.display.DisplayObject;
 	import flash.display.StageScaleMode;

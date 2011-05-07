@@ -1,4 +1,4 @@
-﻿package me.hulse.util  {
+package me.hulse.util  {
 	
 	// Imports:
 	import flash.display.*;

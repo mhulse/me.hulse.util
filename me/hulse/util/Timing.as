@@ -1,4 +1,4 @@
-﻿package me.hulse.util {
+package me.hulse.util {
 	
 	import flash.utils.Timer;
 	import flash.events.TimerEvent;
