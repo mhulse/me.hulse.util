@@ -1,4 +1,4 @@
-﻿package me.hulse.util {
+package me.hulse.util {
 	
 	// Imports:
 	import flash.external.ExternalInterface;
@@ -41,10 +41,10 @@
 			** ExternalInterface.available
 			** 
 			** This read-only property returns a Boolean value.
-			** If the property returns a false value, you’ll have to use an alternative method of communicating with the container 
+			** If the property returns a false value, you'll have to use an alternative method of communicating with the container 
 			** or let the user know that some functionality is unavailable using their current Flash Player.
 			** This read-only property returns a Boolean value. If the property returns a false value, 
-			** you’ll have to use an alternative method of communicating with the container or let the 
+			** you'll have to use an alternative method of communicating with the container or let the 
 			** user know that some functionality is unavailable using their current Flash Player.
 			** 
 			** -- Object Oriented Actionscript, pg. 482

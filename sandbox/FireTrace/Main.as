@@ -1,4 +1,4 @@
-﻿package {
+package {
 	
 	// Imports:
 	import flash.display.MovieClip;
